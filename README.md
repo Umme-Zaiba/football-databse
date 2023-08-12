@@ -1,2 +1,2 @@
 # football-databse
-A simple football database.
+Self created simple football database with only tables 
